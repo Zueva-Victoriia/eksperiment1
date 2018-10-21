@@ -1,0 +1,44 @@
+#nav{
+	background-color: #1397F4;
+	text-align: left;
+	padding: 20px;
+
+}
+
+#burger {
+	width: 35px;
+	height: 35px;
+	display: none;
+
+}
+
+#burger>div {
+	height: 8px;
+	margin-bottom: 8px;
+	background-color: #061393;
+
+
+}
+
+#nav>li>a {
+	color: #F4FC0E;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 1.3em;
+	
+}
+
+#nav>li>a:hover {
+	/*text-decoration: underline;*/
+	color: #7E0A12;
+
+}
+
+
+#nav>li {
+	display: inline-block;
+	margin: 10px 10px;
+	list-style: none;
+
+
+}
